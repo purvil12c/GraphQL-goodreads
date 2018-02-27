@@ -1,0 +1,30 @@
+{
+  "name": "graphql-goodreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purvil12c/GraphQL-goodreads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purvil12c/GraphQL-goodreads/issues"
+  },
+  "homepage": "https://github.com/purvil12c/GraphQL-goodreads#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1",
+    "install": "^0.10.4",
+    "node-fetch": "^2.0.0",
+    "npm": "^5.6.0",
+    "util.promisify": "^1.0.0",
+    "xml2js": "^0.4.19"
+  }
+}

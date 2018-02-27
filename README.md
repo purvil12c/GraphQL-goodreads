@@ -1,4 +1,4 @@
-# GraphQL implementation using Express.JS. 
+# GraphQL implementation using Express.JS, Node 
 
 GraphiQL endpoint - localhost:4000/graphql
 
